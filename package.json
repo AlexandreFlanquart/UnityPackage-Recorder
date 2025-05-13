@@ -1,0 +1,11 @@
+{
+  "name": "be.prismify.recorder",
+  "version": "1.0.0",
+  "displayName": "Prismify - Recorder",
+  "description": "Unity recorder",
+  "unity": "6000.0",
+  "dependencies": {},
+  "author": {
+    "name": "Prismify"
+  }
+}
