@@ -1,11 +1,16 @@
 {
-  "name": "be.prismify.recorder",
+  "name": "com.myunitypackage.recorder",
   "version": "1.0.0",
-  "displayName": "Prismify - Recorder",
-  "description": "Unity recorder",
+  "displayName": "UnityPackage-Recorder",
+  "description": "UnityPackage Recorder",
   "unity": "6000.0",
   "dependencies": {},
   "author": {
-    "name": "Prismify"
-  }
+    "name": "Alexandre Flanquart"
+  },
+  "contributors": [
+    {
+    "name": "Victor Simon"
+    }
+  ]
 }

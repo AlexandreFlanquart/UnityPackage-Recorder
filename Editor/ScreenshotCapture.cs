@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using UnityEditor;
 using UnityEngine;
 
-namespace Prismify.Recorder
+namespace MyUnityPackage.Recorder
 {
     public static class ScreenshotCapture
     {

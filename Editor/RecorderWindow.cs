@@ -5,16 +5,16 @@ using Sirenix.OdinInspector.Editor;
 using System.Collections.Generic;
 using System;
 
-namespace Prismify.Recorder
+namespace MyUnityPackage.Recorder
 {
     public class RecorderWindow : OdinEditorWindow
     {
         private const string VIEWPOINT_TAG = "CameraViewpoint";
 
-        [MenuItem("PRISMIFY/Recorder")]
+        [MenuItem("MyUnityPackage/Recorder")]
         public static void ShowWindow()
         {
-            GetWindow<RecorderWindow>("Primify Recorder").Show();
+            GetWindow<RecorderWindow>("MyUnityPackage Recorder").Show();
         }
 
 #region Screenshot

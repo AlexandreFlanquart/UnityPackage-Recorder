@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEditor.Recorder;
 using UnityEditor.Recorder.Input;
 
-namespace Prismify.Recorder
+namespace MyUnityPackage.Recorder
 {
     public static class VideoCapture
     {

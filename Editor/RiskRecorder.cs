@@ -3,7 +3,7 @@ using UnityEngine;
 using TMPro;
 
 
-namespace Prismify.Recorder
+namespace MyUnityPackage.Recorder
 {/*
     public class RiskRecorder : MonoBehaviour
     {   
