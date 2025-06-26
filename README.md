@@ -1,4 +1,4 @@
-# MYUNITYPACKAGE-SCORM-UNITY
+# MYUNITYPACKAGE-Recorder-UNITY
 Package for Unity.
 
 <br>
